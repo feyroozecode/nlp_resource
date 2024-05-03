@@ -2,7 +2,7 @@
 
  Introductio to NLP :
    * 1: (Wikipedia : https://en.wikipedia.org/wiki/Natural_language_processing)
-
+   * 2: NLP Domain Notes : https://docs.google.com/document/d/1s7RgawNgw_qwXmRhiFUQsfyNagy3U4CtzbrBdX9LxME/edit?usp=sharing
  * 2: SAS Institute in FR : (SAS: https://www.sas.com/fr_ca/insights/analytics/what-is-natural-language-processing-nlp.html#:~:text=Le%20traitement%20du%20Natural%20Language,autres%20t%C3%A2ches%20li%C3%A9es%20au%20langage.)
    
 * (3: Traitement automatique des langues: https://fr.wikipedia.org/wiki/Traitement_automatique_des_langues)
